@@ -10,7 +10,7 @@ Below are a few selected highlights from my various repositories.
 
 ### [prioritise.me]
 
-Built using Express, this site aims to make it easy to organise your open source and other projects, figuring out what other people would find most useful.
+This site aims to make it easy to organise your open source and other projects, figuring out what other people would find most useful.
 
 ![priorities](https://cloud.githubusercontent.com/assets/785939/15587710/5a3845f4-2382-11e6-8609-556c69c99463.png)
 
