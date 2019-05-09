@@ -1,4 +1,4 @@
-Hello, I'm Jonathan Sharpe. I'm currently a Senior Software Engineer with [Pivotal Labs] in London, UK.
+Hello, I'm Jonathan Sharpe. I'm currently a Staff Software Engineer and Engineering Manager with [Pivotal Labs] in London, UK.
 
 ## Issues
 
