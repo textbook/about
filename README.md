@@ -1,4 +1,4 @@
-Hello, I'm Jonathan Sharpe. I'm currently a Staff Software Engineer and Engineering Manager with [Pivotal Labs] in London, UK.
+Hello, I'm Jonathan Sharpe. I'm currently an Engineering Manager with [VMware Tanzu Labs] in London, UK.
 
 ## Issues
 
@@ -41,8 +41,8 @@ Integrates [Pivotal Tracker] neatly into [Atom], allowing the user to create, st
   [Atom]: https://atom.io/
   [Atom-Tracker]: https://github.com/textbook/atom-tracker
   [Flash]: https://github.com/textbook/flash
-  [Pivotal Labs]: http://pivotal.io/labs
   [Pivotal Tracker]: https://www.pivotaltracker.com/
   [prioritise.me]: https://github.com/textbook/prioritise-me
   [services]: https://github.com/textbook/flash_services
   [TMDb]: https://www.themoviedb.org/
+  [VMware Tanzu Labs]: https://tanzu.vmware.com/labs
